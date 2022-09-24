@@ -3,7 +3,7 @@
 https://vamsi-buy-and-sell.herokuapp.com/myapp/products/
 
 
-Built a Buy and Sell E-commerce Application. 
+Built a Buy and Sell E-Commerce Application.
 Buy using this platform Users can Buy or sell Products.
 By using Authentication Users can login and find all the Products that are available to purchase and can also add their Products and Sell them. Users can  getting the Information of the Products and the product owner.
 
